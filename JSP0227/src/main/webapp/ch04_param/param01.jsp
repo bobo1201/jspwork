@@ -15,3 +15,8 @@
 	<p>Java Server Page
 </body>
 </html>
+
+<!-- 
+아이디 : admin
+이 름 : 관리자
+ -->
